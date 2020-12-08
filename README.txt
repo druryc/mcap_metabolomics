@@ -1,5 +1,5 @@
 Data and analysis scripts for:
-Roach TNF, Dilworth J, Martin HC, Jones AD, Quinn R, DruryC - Metabolomic signatures of coral bleaching history
+Roach TNF, Dilworth J, Martin HC, Jones AD, Quinn R, Drury C - Metabolomic signatures of coral bleaching history
 
 
 
